@@ -1,4 +1,4 @@
-# 1 Sameul 16:7
+# 1 Samuel 16:7
 O Senhor não vê como o homem: o homem vê a aparência, mas o Senhor vê o coração
 
 
