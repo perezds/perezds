@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 1 Sameul 16:7
 O Senhor não vê como o homem: o homem vê a aparência, mas o Senhor vê o coração
 
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dspereez) 
 
 # 💻 Tech Stack:
@@ -12,10 +12,10 @@ O Senhor não vê como o homem: o homem vê a aparência, mas o Senhor vê o cor
 ![](https://github-readme-streak-stats.herokuapp.com/?user=perezds&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=perezds&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+###  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=perezds&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
