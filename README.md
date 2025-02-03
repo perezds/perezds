@@ -1,11 +1,7 @@
-# 1 Samuel 16:7
 O Senhor não vê como o homem: o homem vê a aparência, mas o Senhor vê o coração
-
 <div align="center">
    <img src="https://i.pinimg.com/originals/50/f5/24/50f524b172bb2ee4ec830e4a0686e6df.gif">
 </div>
-
-
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dspereez) 
