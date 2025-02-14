@@ -14,6 +14,7 @@ O Senhor não vê como o homem: o homem vê a aparência, mas o Senhor vê o cor
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div><br>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=perezds&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=perezds&theme=blue_navy&hide_border=false)<br/>
