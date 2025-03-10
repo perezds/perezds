@@ -26,6 +26,12 @@ O Senhor não vê como o homem: o homem vê a aparência, mas o Senhor vê o cor
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=perezds&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarolinaPinheiroSantos/CarolinaPinheiroSantos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarolinaPinheiroSantos/CarolinaPinheiroSantos/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CarolinaPinheiroSantos/CarolinaPinheiroSantos/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=perezds&icon=9&color=1)](https://visitcount.itsvg.in)
 
